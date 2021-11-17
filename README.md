@@ -8,10 +8,10 @@ A user can perform a search by doing the following:
 
 1. Navigate to the webpage https://github.com/AleeAlette1/UFOs . The inital page will look like the following image. User can re-initialize the page by clickin on the 'UFO Sightings' navbar on the top left of page.
 
-![Inital_Webpage.png](images/Initial_Webpage.png)
+![Inital_Webpage.jpg](images/Initial_Webpage.jpg)
 
 2. Enter any criteria into the filter search boxes on the left side of the screen (Displayed below). User can filter data by usiing one, multiple or all critera filter search boxes. If filtering by date, date format should read x/xx/xxxx. To filter by city, state, counttry or shape, use lowercase letters only.
-![Filters.png](images/Filters.png)
+![Filters.jpg](images/Filters.jpg)
 
 
 ## Summary
